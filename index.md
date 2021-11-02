@@ -10,7 +10,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](![no-nut-november-1](https://user-images.githubusercontent.com/77707528/139785552-84ad3de2-f727-4100-91c4-fcc3dcd009d2.jpg))
+[Link](url) and 
 ```
-
+[Image](![no-nut-november-1](https://user-images.githubusercontent.com/77707528/139785552-84ad3de2-f727-4100-91c4-fcc3dcd009d2.jpg))
 ### Jekyll Themes
